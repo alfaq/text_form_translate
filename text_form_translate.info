@@ -1,0 +1,3 @@
+name = "Text form translate"
+description = "Enabled editor for translate form - taxonomy, block"
+core = 7.x
